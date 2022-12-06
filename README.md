@@ -2,7 +2,9 @@
 Repository for CV code. 
 
 --Dog image prediction--
+
 An image classifier based on the kaggle data set:
+
 https://www.kaggle.com/datasets/devzohaib/dog-emotions-prediction
 
 - Instructions -
